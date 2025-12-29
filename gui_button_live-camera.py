@@ -1,4 +1,4 @@
-#git clone 
+#git clone https://github.com/Majdawad88/gui_button_live-camera.git
 import tkinter as tk
 from tkinter import Button
 import cv2
